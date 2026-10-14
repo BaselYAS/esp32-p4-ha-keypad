@@ -8,6 +8,14 @@ A smart wall keypad for Home Assistant, built on the ESP32-P4-NANO. It has a 4" 
 
 *Working prototype on a custom PCB I designed for this project.*
 
+### From prototype to product
+
+The prototype became a finished product. The enclosure was designed by the company's team, built around my prototype.
+
+| | | |
+|---|---|---|
+| ![Final product, front](docs/photos/keypad-front.jpg) | ![Final product, back](docs/photos/keypad-back.jpg) | ![Final product, wall box with Ethernet](docs/photos/keypad-back-ethernet.jpg) |
+
 ## What it does
 
 - Each of the 10 buttons toggles a light or opens and closes a cover. Hold a button and the screen switches to a control mode where the encoder sets brightness, colour temperature, RGB hue or cover position.
